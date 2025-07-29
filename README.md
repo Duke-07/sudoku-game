@@ -5,7 +5,7 @@ Test your logic and sharpen your mind with this interactive Sudoku game! Perfect
 
 ✔ Fully Playable Grid: Fill in numbers 1-9 with intuitive input.
 
-✔ Timer: Track your solving speed (current record: 05:58!).
+✔ Timer: Track your solving speed.
 
 ✔ Hints: Get help when stuck (3 hints per game).
 
