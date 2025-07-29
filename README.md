@@ -7,9 +7,9 @@ Test your logic and sharpen your mind with this interactive Sudoku game! Perfect
 
 ✔ Timer: Track your solving speed (current record: 05:58!).
 
-✔ Hints: Get help when stuck (♥3 hints per game).
+✔ Hints: Get help when stuck (3 hints per game).
 
-✔ Mistake Counter: Learn from errors (4 mistakes allowed).
+✔ Mistake Counter: Learn from errors (10 mistakes allowed).
 
 ✔ New Game Button: Reset for endless challenges.
 
